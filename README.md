@@ -1,4 +1,4 @@
-[![Rafael's Personal Site](https://i.postimg.cc/m2FdX7fz/pexels-luis-gomes-546819.jpg)](https://github.com/RafaEscobar)
+[![Rafael's Personal Site](https://i.postimg.cc/hPy2tML5/Rafael-1.png)](https://github.com/RafaEscobar)
 
 
 <div>
@@ -8,5 +8,9 @@
 </div display = flex>
   <h4 align="center">Conteo de visitantes 🔎</h4>
   <p align="center"><img src="https://profile-counter.glitch.me/{RafaelEscobarGutierrez1}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
+</div>
+<div>
+  
+  [![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RafaEscobar&theme=radical&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
 </div>
 
