@@ -1,9 +1,9 @@
-[![Rafael's Personal Site](https://i.postimg.cc/hPy2tML5/Rafael-1.png)](https://github.com/RafaEscobar)
-
+[![Rafael's Personal Site](https://subir-imagen.com/images/2024/03/12/Rafael-1.png)](https://github.com/RafaEscobar)
 
 <div>
 
 <p align="center">
+  
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=RafaEscobar&show_icons=true&count_private=true&theme=algolia">
   <img height="50%" width="auto" src="http://github-readme-streak-stats.herokuapp.com?user=RafaEscobar&theme=algolia&hide_border=true" />
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaEscobar&layout=compact&theme=algolia&langs_count=6&hide=jupyter%20notebook,tex,blade,java,html,Ruby,c%2B%2B,objective-c,objective-c%2B%2B,starlark,shell,cmake&custom_title=I%20use">
